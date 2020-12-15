@@ -1,3 +1,22 @@
+# OVERVIEW
+This website displays COVID19 report of different of countries around the world on an ArcGis Map. It also uses various npm packages like chart-js, numerals, and google material ui. It gets the required data, such as COVID cases and recovery, location, and so forth from an API server. The color of the popup on the ArcGis map is responsive to the magnitude of COVID cases . It esigned with React, JavaScript, CSS, and HTML.
+It uses Visual Studio Code, ARCGIS map library, API from disease.sh, and github.
+
+# DEVELOPMENT ENVIRONMENT
+* Visual Studio Code
+* Google Chrome
+
+# EXECUTION
+To execute the program: run the file on a web browser.
+![Program screenshot showing the output](map2.png)
+![Program screenshot showing the output](map1.png)
+
+# USEFUL WEBSITES
+* [ArcGis Developer Tutorials/Doc](https://developers.arcgis.com/labs/browse/?product=javascript&topic=any)
+* [w3schools JavaScript Tutorials](https://www.w3schools.com/js/)
+* [w3schools CSS Tutorials](https://www.https://www.w3schools.com/css/default.asp)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -65,6 +84,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
+### Tutorial Credit
+[Clever Programmer](https://cleverprogrammer.teachable.com/)
+
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
