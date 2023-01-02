@@ -1,6 +1,6 @@
 # OVERVIEW
-This website displays COVID19 report of different of countries around the world on an ArcGis Map. It also uses various npm packages like chart-js, numerals, and google material ui. It gets the required data, such as COVID cases and recovery, location, and so forth from an API server. The color of the popup on the ArcGis map is responsive to the magnitude of COVID cases . It esigned with React, JavaScript, CSS, and HTML.
-It uses Visual Studio Code, ARCGIS map library, API from disease.sh, and github.
+This website displays COVID19 report of different of countries around the world on an ArcGis Map. It also uses various npm packages like chart-js, numerals, and google material ui. It gets the required data, such as COVID cases and recovery, location, and so forth from an API server. The color of the popup on the ArcGis map is responsive to the magnitude of COVID cases. It was designed with React, JavaScript, CSS, and HTML.
+It uses ARCGIS map library, API from disease.sh, and github. Mainly developed using  Visual Studio Code.
 
 # DEVELOPMENT ENVIRONMENT
 * Visual Studio Code
